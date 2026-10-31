@@ -55,6 +55,7 @@ APK 路径：`app/build/outputs/apk/debug/app-debug.apk`。
 
 ## 文档
 
+- [安装与 LSPosed 启用](docs/INSTALLATION.md)
 - [架构](docs/ARCHITECTURE.md)
 - [Hook 覆盖与候选清单](docs/HOOK_COVERAGE.md)
 - [静态逆向阶段报告](docs/STATIC_REVERSE_ENGINEERING_REPORT.md)
